@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f8faf9;
+    color: #1081f2;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header_section {
+    background-color: #b1d8f1;
+    padding: 20px;
+}
+
+.custom_nav-container {
+    background-color: #2b668d;
+    border-radius: 20px; 
+}
+
+.navbar-nav .nav-link {
+    color: white;
+}
+
+#main {
+    text-align: center;
+}
+
+#home {
+    background-color: #2e6082;
+    color: white;
+    padding: 100px 0;
+}
+
+#home img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 5px solid #fff;
+}
+
+#text {
+    margin-top: 30px;
+}
+
+#text h2 {
+    font-size: 30px;
+    color: #ecf0f1;
+}
+
+#text h1 {
+    font-size: 40px;
+}
+
+#text h4 {
+    color: #ecf0f1;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#buttons {
+    margin-top: 20px;
+}
+
+#skills,
+#projects,
+#contact {
+    padding: 80px 0;
+    background-color:  #b1d8f1;
+}
+
+#text1 h1 {
+    font-size: 40px;
+}
+
+#text1 h4 {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.box {
+    background-color: #3575a0;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 20px;
+    color: white;
+}
+
+.box h1 {
+    font-size: 24px;
+}
+
+.box p {
+    font-size: 16px;
+    color: #ecf0f1;
+}
+
+.projects .project {
+    margin: 20px;
+}
+
+.project img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.end {
+    text-align: center;
+}
+
+
+.bottom-container {
+    background-color: #2b668d;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    justify-content: center;
+    height: 40px;
+}
+
+.copyright {
+    color: #ecf0f1;
+    font-size: 14px;
+}
